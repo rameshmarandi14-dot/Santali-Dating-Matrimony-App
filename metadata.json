@@ -1,0 +1,6 @@
+{
+  "name": "Santali Juri",
+  "description": "Santali community dating and matrimony Android app with Parsi (clan) preferences, profile discovery, matches, likes, and real-time messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
